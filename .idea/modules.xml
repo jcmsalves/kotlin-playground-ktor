@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend_main.iml" group="kotlinbackend" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinbackend_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinbackend_test.iml" group="kotlinbackend" />
+    </modules>
+  </component>
+</project>
